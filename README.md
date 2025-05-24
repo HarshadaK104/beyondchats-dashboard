@@ -1,9 +1,6 @@
 # 🚀 BeyondChats – Customer Support Admin Dashboard
 
 **BeyondChats** is a modern, minimal, and responsive customer support admin dashboard built using **React.js** and **Tailwind CSS**. Inspired by Intercom's admin panel, this project is designed for handling user conversations, viewing chat history, and interacting with an AI assistant panel for quick support insights.
----
-## Live Project Link
-beyondchats-dashboard.vercel.app
 
 ---
 
