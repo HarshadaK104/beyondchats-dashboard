@@ -1,12 +1,34 @@
-# React + Vite
+# 🚀 BeyondChats – Customer Support Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**BeyondChats** is a modern, minimal, and responsive customer support admin dashboard built using **React.js** and **Tailwind CSS**. Inspired by Intercom's admin panel, this project is designed for handling user conversations, viewing chat history, and interacting with an AI assistant panel for quick support insights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo Preview
 
-## Expanding the ESLint configuration
+> _[Include a screenshot or gif here]_  
+> Example:  
+> ![Dashboard Screenshot](./public/dashboard_preview.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Features
+
+- 📥 **Inbox Sidebar** – Lists user chats with filters (`Open`, `Waiting`, `Resolved`)
+- 💬 **Chat Panel** – Displays full conversations with timestamps and agent/customer message bubbles
+- 🤖 **AI Assistant** – Integrated assistant panel to suggest answers and respond to queries
+- 📱 **Responsive Design** – Fully adaptable across desktop, tablet, and mobile screens
+- 🎨 **Modern UI** – Clean layout with soft purples, whites, and grays
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS
+- **Icons**: react-icons (Feather Icons)
+- **State Handling**: useState (React Hooks)
+
+---
+
+## 📁 Folder Structure
+
